@@ -1,0 +1,4 @@
+@abstract 'mass/index.mcss';
+@abstract './variable/index.mcss';
+@abstract './helper/index.mcss';
+@abstract './function/index.mcss';

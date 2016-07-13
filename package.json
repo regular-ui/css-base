@@ -1,0 +1,12 @@
+{
+  "name": "rgui-css-base",
+  "description": "Regular UI - CSS Base Component",
+  "version": "0.2.0",
+  "author": "Rainfore <rainforest92@126.com>",
+  "repository": "regular-ui/css-base",
+  "homepage": "http://regular-ui.github.io",
+  "bugs": {"url": "http://github.com/regular-ui/css-base/issues"},
+  "license": "MIT",
+  "keywords": ["regular", "ui", "rgui", "css", "base"],
+  "tags": ["regular", "ui", "rgui", "css", "base"]
+}

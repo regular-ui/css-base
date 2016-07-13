@@ -1,0 +1,18 @@
+$fadeIn();
+$fadeOut();
+$bounceIn();
+$bounceOut();
+$fadeInX();
+$fadeInY(-10px);
+$fadeOutY(-10px);
+// $flipInY();
+// $flipOutY();
+$pulse();
+// $slideInX();
+// $slideInY();
+// $slideOutX();
+// $slideOutY();
+
+.animated {
+    $animation-duration: 0.2s;
+}
