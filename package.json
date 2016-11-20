@@ -1,7 +1,7 @@
 {
   "name": "rgui-css-base",
   "description": "Regular UI - CSS Base Component",
-  "version": "0.2.0",
+  "version": "0.2.0-alpha",
   "author": "Rainfore <rainforest92@126.com>",
   "repository": "regular-ui/css-base",
   "homepage": "http://regular-ui.github.io",
