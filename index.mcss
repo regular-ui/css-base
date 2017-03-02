@@ -1,9 +1,9 @@
 @abstract 'mass/index.mcss';
-@abstract './variable/index.mcss';
-@abstract './helper/index.mcss';
+@abstract './src/variable/index.mcss';
+@abstract './src/helper/index.mcss';
 
 $reset-normalize();
 
-@import './function/index.mcss';
-@import './effect/index.mcss';
-@import './base/index.mcss';
+@import './src/function/index.mcss';
+@import './src/effect/index.mcss';
+@import './src/base/index.mcss';
